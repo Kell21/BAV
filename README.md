@@ -2,7 +2,7 @@
 Студент - Мифист с любовью к футболу, видеоиграм и танцам.
 # 📚 Ищете мое резюме?
 - Русский: [Резюме](https://github.com/Kell21/BAV/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-2-1.pdf)
-- English: [Resume]()
+- English: [Resume](https://github.com/Kell21/BAV/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-2-2.pdf)
 # 📬 Связаться со мной
 - Электронная почта: <baulinalesha@gmail.com>
 - Телеграмм: [t.me/skeletonbong](https://t.me/skeletonbong)
